@@ -7,7 +7,7 @@ I am currently pursuing a full-stack development program at Microvers. While my 
 
 ## About Me
 
-🌍 I am based in Lithuania (GMT+3), currently studying at Microverse full-stack programming school.
+🌍 I am based in Lithuania (GMT+3)<br>
 🔭 As a student, my GitHub repositories are constantly updating with exciting new projects that I complete on a weekly basis. Please take a look at my projects, as almost all of them are deployed!<br>
 🌱  Currently, I am refreshing my JavaScript skills within my studies, and in my free time, I am exploring Ruby and Ruby on Rails.<br>
 💬  If you find my projects interesting and have any questions, feel free to reach out, and we can have a little chat!<br>
