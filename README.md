@@ -35,21 +35,13 @@ I am currently pursuing a full-stack development program at Microvers. While my 
 ## Projects <br>
 
 
-#### Here are small descriptions and live demo links to the pinned projects below:
+#### Here are live demo links to the pinned projects below:
 
  🥁 🎸 🤩 [Capstone-project](https://agneta1991.github.io/Capstone_project/) <br>
 
-This was my first solo project, where I applied the knowledge I gained from studying HTML, CSS, and JavaScript for four weeks. The project includes both mobile and desktop versions and allows for easy content adjustment as it is dynamically created.
-
 👩‍💻 💃 🧠  [To-Do-List](https://agneta1991.github.io/to-do-list/dist/) <br>
-Here is my most recent project, a simple to-do list webpage built with HTML, CSS, and JavaScript. It has localStorage integration, which allows for easy changes and deletions.
-
-👏 📲 🦄 Awesome-books-with-ES6 (it is not deployed)<br>
-I collaborated with Mohamed Roshdy to build this interactive webpage. It allows users to add their favorite books and is built using JavaScript, with code exported as modules for easy reuse in future projects.
 
 🙌 🦩🎀  [Portfolio](https://agneta1991.github.io/Portfolio/) <br>
-The Portfolio project is my first project while studying at Microverse. It has mobile and desktop versions and is based on HTML and CSS. It serves as a template for showcasing future projects to the public.
-
 <br>
 <br>
 
