@@ -26,7 +26,7 @@ I am currently pursuing a full-stack development program at Microvers. While my 
 
 It was my very first solo project from start to finish, where I applied all the knowledge I gained over the 4 weeks of studying HTML & CSS with the basics of JavaScript. This project has both a mobile and desktop version and is dynamically created, making it easy to adjust the content.
 
-👩‍💻 💃 😉  [Click here to view javaScript based project!](https://agneta1991.github.io/to-do-list/dist/)
+👩‍💻 💃 😉  [Click here to view a JavaScript based project!](https://agneta1991.github.io/to-do-list/dist/)
 This is my most recent project, a simple to-do list built with JavaScript. It includes localStorage integration, allowing for changes and deletions.
 
 ## Get in Touch
