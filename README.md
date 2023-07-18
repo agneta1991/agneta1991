@@ -1,3 +1,4 @@
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 <h1 align="center">Hello World!👋, I'm Agneta</h1>
 <h3 align="center">A passionate Full-Stack developer from Lithuania</h3>
 
