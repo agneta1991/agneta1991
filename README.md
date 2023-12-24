@@ -1,6 +1,6 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 <h1 align="center">Hello World!👋, I'm Agneta</h1>
-<h3 align="center">A passionate Full-Stack developer from Lithuania 🇱🇹 </h3>
+<h3 align="center">A passionate Full-Stack developer from Lithuania <img width="64" height="64" src="https://img.icons8.com/external-creatype-filed-outline-colourcreatype/64/external-flag-flags-creatype-filed-outline-colourcreatype-33.png" alt="external-flag-flags-creatype-filed-outline-colourcreatype-33"/> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agneta1991&label=Profile%20views&color=0e75b6&style=flat" alt="agneta1991" /> </p> <br>
 
