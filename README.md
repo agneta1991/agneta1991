@@ -20,8 +20,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-
 <!-- Languages -->
 <h5>Languages:</h5>
 <p align="left">
