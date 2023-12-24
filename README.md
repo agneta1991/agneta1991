@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **a.pupienyte@gmail.com**
 
-- ⚡ Fun fact **Just 7 months ago, I didn't own a computer, had zero knowledge about coding, and the mere thought of using the terminal terrified me🚀**
+- ⚡ Fun fact **Just 11 months ago, I didn't own a computer, had zero knowledge about coding, and the mere thought of using the terminal terrified me🚀**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
